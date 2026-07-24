@@ -2,8 +2,6 @@
 
 By Youssef Harchay
 
-Video overview: https://youtu.be/O3W3QNxOq4A
-
 # Scope
 
 The purpose of this database is to manage a cybersecurity laboratory platform used in educational institutions. It allows instructors to create attack scenarios, assign practical exercises to student groups, evaluate their work, and monitor their performance throughout the course.
